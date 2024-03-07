@@ -14,4 +14,4 @@ R code is based on R version 4.1.0 "Camp Pontanezen".
 ### Data availability 
 A version of the original dataset and trained models can be found here: https://gitlab.com/eya95/multi-traitretrieval
 
-RTM data are not included. Pls contact us in case you need them.
+Finished RTM data are not included. Please contact us in case you need them.
