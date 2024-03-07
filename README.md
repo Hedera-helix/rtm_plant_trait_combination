@@ -2,7 +2,7 @@
 
 Link: to be done.
 
-Here you can find the code to reproduce the results featured in Mederer et al. 2024 (to be accepted).
+Here you can find the code to reproduce the results covered in Mederer et al. 2024 (to be accepted).
 
 ### Installation 
 This project includes both python code for model training and R code for RTM data generation.
