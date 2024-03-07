@@ -12,6 +12,5 @@ For further installation details for the python environment, please refer to the
 R code is based on R version 4.1.0 "Camp Pontanezen". 
 
 ### Data availability 
-A version of the original dataset and trained models can be found here: https://gitlab.com/eya95/multi-traitretrieval
-
-Finished RTM data are not included. Please contact us in case you need them.
+An unprocessed version of the original dataset and trained models can be found here: https://gitlab.com/eya95/multi-traitretrieval
+Finished RTM datasets are not included for storage reasons. Please contact us in case you need them.
