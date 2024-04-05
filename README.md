@@ -1,4 +1,4 @@
-# Plant trait retrieval from spectral data: Collective efforts of the scientific community outperform data simulations.
+# Plant trait retrieval from spectral data: Collective efforts of the scientific community outperform data simulations
 
 Link: to be done.
 
