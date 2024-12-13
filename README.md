@@ -1,8 +1,8 @@
 # Plant trait retrieval from spectral data: Collective efforts of the scientific community outperform data simulations
 
-Link to paper: to be published.
+Link to paper: https://www.sciencedirect.com/science/article/pii/S2667393224000243?via%3Dihub
 
-Here you can find the code to reproduce the results covered in Mederer et al. 2024 (to be accepted).
+Here you can find the code to reproduce the results covered in Mederer et al. 2024.
 
 ### Installation 
 This project includes both python code for model training and R code for RTM data generation.
