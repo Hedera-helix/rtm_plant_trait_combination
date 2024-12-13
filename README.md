@@ -11,7 +11,8 @@ For further installation details for the python environment, please refer to the
 
 R code is based on R version 4.1.0 "Camp Pontanezen". 
 
-### Data availability 
-An unprocessed version of the original dataset and trained models can be found here: https://gitlab.com/eya95/multi-traitretrieval
+### Model and data availability 
+An unprocessed version of the original dataset can be found here: https://gitlab.com/eya95/multi-traitretrieval
+The models can be found here with a more detailed explanation: https://github.com/echerif18/multiTraitPredictions
 
 Unprocessed RTM datasets can be found on Zenodo under this link: https://zenodo.org/records/10932767?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjcyYzMwZWM5LTRhZmItNGI0YS04MWExLTU3NmZlYzZkZGExMCIsImRhdGEiOnt9LCJyYW5kb20iOiIwNmVkOGZiNDYyODllOWU5M2UwMjIwNDNlOTg0NzM5NCJ9.2Dz1rM2ZP_CIVpCfl-9ouc5YO7800hoRpVvIvmL_M9Nkt-_SK0UJgw2-jymtrSCwUx0KaCHnCEqrkAi6-74dfw
